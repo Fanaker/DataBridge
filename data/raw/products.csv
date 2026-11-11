@@ -1,0 +1,25 @@
+sku,product_name,category,unit_cost,list_price
+PRD-001,Café molido 250g,Abarrotes,12,19.9
+PRD-002,Arroz extra 1kg,Abarrotes,3.4,5.5
+PRD-003,Aceite vegetal 1L,Abarrotes,6.3,10.5
+PRD-004,Azúcar rubia 1kg,Abarrotes,2.9,4.4
+PRD-005,Leche evaporada,Lácteos,3.1,4.8
+PRD-006,Yogur natural 1L,Lácteos,6.8,10.0
+PRD-007,Queso fresco 500g,Lácteos,11.9,17.5
+PRD-008,Mantequilla 200g,Lácteos,7.3,12.5
+PRD-009,Papel toalla x2,Hogar,7.7,12.9
+PRD-010,Detergente 900g,Hogar,8.2,14.5
+PRD-011,Lavavajillas 750ml,Hogar,4.5,7.9
+PRD-012,Desinfectante 1L,Hogar,5.8,9.9
+PRD-013,Gaseosa 1.5L,Bebidas,5.1,8.5
+PRD-014,Agua mineral 625ml,Bebidas,1.4,2.8
+PRD-015,Jugo de naranja 1L,Bebidas,5.4,9.9
+PRD-016,Bebida energética,Bebidas,4.5,8.9
+PRD-017,Galletas integrales,Snacks,2.5,5.2
+PRD-018,Papas crocantes,Snacks,2.8,5.9
+PRD-019,Chocolate 80g,Snacks,3.0,6.7
+PRD-020,Mix de frutos secos,Snacks,6.4,11.9
+PRD-021,Shampoo 400ml,Cuidado,12,21.9
+PRD-022,Jabón líquido,Cuidado,7.9,13.9
+PRD-023,Pasta dental,Cuidado,4.9,8.9
+PRD-024,Pañitos húmedos,Cuidado,5.3,9.5

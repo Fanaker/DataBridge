@@ -1,0 +1,822 @@
+[
+  {
+    "order_id": "ORD-001451",
+    "order_date": "2026-10-05 15:00:00",
+    "sku": "PRD-004",
+    "quantity": 4,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0134",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001452",
+    "order_date": "2026-10-12 15:00:00",
+    "sku": "PRD-016",
+    "quantity": 4,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0111",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001453",
+    "order_date": "2026-10-29 10:00:00",
+    "sku": "PRD-013",
+    "quantity": 2,
+    "unit_price": 8.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0108",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001454",
+    "order_date": "2026-09-23 10:00:00",
+    "sku": "PRD-023",
+    "quantity": 2,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0092",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001455",
+    "order_date": "2026-08-12 13:00:00",
+    "sku": "PRD-010",
+    "quantity": 1,
+    "unit_price": 14.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0114",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001456",
+    "order_date": "2026-10-24 17:00:00",
+    "sku": "PRD-012",
+    "quantity": 2,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0220",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001457",
+    "order_date": "2026-10-22 13:00:00",
+    "sku": "PRD-008",
+    "quantity": 2,
+    "unit_price": 12.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0219",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001458",
+    "order_date": "2026-09-25 13:00:00",
+    "sku": "PRD-009",
+    "quantity": 1,
+    "unit_price": 12.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0123",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001459",
+    "order_date": "2026-08-14 09:00:00",
+    "sku": "PRD-014",
+    "quantity": 4,
+    "unit_price": 2.8,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0076",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001460",
+    "order_date": "2026-07-31 15:00:00",
+    "sku": "PRD-023",
+    "quantity": 1,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0074",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001461",
+    "order_date": "2026-08-20 15:00:00",
+    "sku": "PRD-007",
+    "quantity": 2,
+    "unit_price": 17.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0038",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001462",
+    "order_date": "2026-10-06 14:00:00",
+    "sku": "PRD-005",
+    "quantity": 2,
+    "unit_price": 4.8,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0097",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001463",
+    "order_date": "2026-09-14 19:00:00",
+    "sku": "PRD-016",
+    "quantity": 1,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0169",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001464",
+    "order_date": "2026-08-25 18:00:00",
+    "sku": "PRD-018",
+    "quantity": 1,
+    "unit_price": 5.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0151",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001465",
+    "order_date": "2026-09-25 20:00:00",
+    "sku": "PRD-015",
+    "quantity": 1,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0130",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001466",
+    "order_date": "2026-09-07 12:00:00",
+    "sku": "PRD-014",
+    "quantity": 2,
+    "unit_price": 2.8,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0264",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001467",
+    "order_date": "2026-09-17 10:00:00",
+    "sku": "PRD-020",
+    "quantity": 2,
+    "unit_price": 11.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0009",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001468",
+    "order_date": "2026-10-05 12:00:00",
+    "sku": "PRD-013",
+    "quantity": 4,
+    "unit_price": 8.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0152",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001469",
+    "order_date": "2026-10-04 13:00:00",
+    "sku": "PRD-002",
+    "quantity": 3,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0104",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001470",
+    "order_date": "2026-09-23 13:00:00",
+    "sku": "PRD-008",
+    "quantity": 3,
+    "unit_price": 12.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0239",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001471",
+    "order_date": "2026-09-11 17:00:00",
+    "sku": "PRD-004",
+    "quantity": 3,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0226",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001472",
+    "order_date": "2026-10-02 19:00:00",
+    "sku": "PRD-004",
+    "quantity": 1,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0090",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001473",
+    "order_date": "2026-08-01 13:00:00",
+    "sku": "PRD-020",
+    "quantity": 2,
+    "unit_price": 11.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0137",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001474",
+    "order_date": "2026-10-03 18:00:00",
+    "sku": "PRD-007",
+    "quantity": 2,
+    "unit_price": 17.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0095",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001475",
+    "order_date": "2026-10-05 18:00:00",
+    "sku": "PRD-001",
+    "quantity": 2,
+    "unit_price": 19.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0077",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001476",
+    "order_date": "2026-08-16 15:00:00",
+    "sku": "PRD-003",
+    "quantity": 2,
+    "unit_price": 10.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0176",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001477",
+    "order_date": "2026-09-24 15:00:00",
+    "sku": "PRD-007",
+    "quantity": 3,
+    "unit_price": 17.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0082",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001478",
+    "order_date": "2026-10-28 10:00:00",
+    "sku": "PRD-009",
+    "quantity": 2,
+    "unit_price": 12.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0105",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001479",
+    "order_date": "2026-10-14 13:00:00",
+    "sku": "PRD-006",
+    "quantity": 2,
+    "unit_price": 10.0,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0208",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001480",
+    "order_date": "2026-08-11 20:00:00",
+    "sku": "PRD-013",
+    "quantity": 3,
+    "unit_price": 8.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0052",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001481",
+    "order_date": "2026-09-22 13:00:00",
+    "sku": "PRD-017",
+    "quantity": 1,
+    "unit_price": 5.2,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0206",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001482",
+    "order_date": "2026-08-19 17:00:00",
+    "sku": "PRD-015",
+    "quantity": 3,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0002",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001483",
+    "order_date": "2026-09-20 18:00:00",
+    "sku": "PRD-021",
+    "quantity": 3,
+    "unit_price": 21.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0024",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001484",
+    "order_date": "2026-08-30 19:00:00",
+    "sku": "PRD-001",
+    "quantity": 4,
+    "unit_price": 19.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0022",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001485",
+    "order_date": "2026-08-19 14:00:00",
+    "sku": "PRD-020",
+    "quantity": 2,
+    "unit_price": 11.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0205",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001486",
+    "order_date": "2026-10-08 19:00:00",
+    "sku": "PRD-008",
+    "quantity": 1,
+    "unit_price": 12.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0079",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001487",
+    "order_date": "2026-08-15 17:00:00",
+    "sku": "PRD-004",
+    "quantity": 1,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0130",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001488",
+    "order_date": "2026-09-13 18:00:00",
+    "sku": "PRD-010",
+    "quantity": 4,
+    "unit_price": 14.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0105",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001489",
+    "order_date": "2026-08-20 17:00:00",
+    "sku": "PRD-002",
+    "quantity": 1,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0051",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001490",
+    "order_date": "2026-07-31 18:00:00",
+    "sku": "PRD-003",
+    "quantity": 3,
+    "unit_price": 10.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0079",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001491",
+    "order_date": "2026-10-06 12:00:00",
+    "sku": "PRD-004",
+    "quantity": 2,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0079",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001492",
+    "order_date": "2026-08-18 16:00:00",
+    "sku": "PRD-020",
+    "quantity": 1,
+    "unit_price": 11.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0099",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001493",
+    "order_date": "2026-09-18 09:00:00",
+    "sku": "PRD-018",
+    "quantity": 4,
+    "unit_price": 5.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0163",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001494",
+    "order_date": "2026-08-15 16:00:00",
+    "sku": "PRD-010",
+    "quantity": 3,
+    "unit_price": 14.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0096",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001495",
+    "order_date": "2026-10-29 11:00:00",
+    "sku": "PRD-022",
+    "quantity": 2,
+    "unit_price": 13.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0249",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001496",
+    "order_date": "2026-08-04 15:00:00",
+    "sku": "PRD-010",
+    "quantity": 3,
+    "unit_price": 14.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0264",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001497",
+    "order_date": "2026-09-20 20:00:00",
+    "sku": "PRD-023",
+    "quantity": 2,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0152",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001498",
+    "order_date": "2026-10-03 13:00:00",
+    "sku": "PRD-009",
+    "quantity": 3,
+    "unit_price": 12.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0077",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001499",
+    "order_date": "2026-09-16 12:00:00",
+    "sku": "PRD-021",
+    "quantity": 3,
+    "unit_price": 21.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0024",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001500",
+    "order_date": "2026-08-07 11:00:00",
+    "sku": "PRD-006",
+    "quantity": 4,
+    "unit_price": 10.0,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0090",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001501",
+    "order_date": "2026-09-10 10:00:00",
+    "sku": "PRD-020",
+    "quantity": 4,
+    "unit_price": 11.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0217",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001502",
+    "order_date": "2026-10-26 13:00:00",
+    "sku": "PRD-024",
+    "quantity": 1,
+    "unit_price": 9.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0176",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001503",
+    "order_date": "2026-09-12 11:00:00",
+    "sku": "PRD-007",
+    "quantity": 3,
+    "unit_price": 17.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0117",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001504",
+    "order_date": "2026-10-17 20:00:00",
+    "sku": "PRD-002",
+    "quantity": 2,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0092",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001505",
+    "order_date": "2026-09-05 12:00:00",
+    "sku": "PRD-015",
+    "quantity": 2,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0191",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001506",
+    "order_date": "2026-08-21 11:00:00",
+    "sku": "PRD-011",
+    "quantity": 1,
+    "unit_price": 7.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0061",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001507",
+    "order_date": "2026-10-09 09:00:00",
+    "sku": "PRD-021",
+    "quantity": 3,
+    "unit_price": 21.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0243",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001508",
+    "order_date": "2026-10-21 14:00:00",
+    "sku": "PRD-008",
+    "quantity": 2,
+    "unit_price": 12.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0182",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001509",
+    "order_date": "2026-09-16 17:00:00",
+    "sku": "PRD-015",
+    "quantity": 1,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0039",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001510",
+    "order_date": "2026-10-06 18:00:00",
+    "sku": "PRD-002",
+    "quantity": 2,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0080",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001511",
+    "order_date": "2026-09-18 09:00:00",
+    "sku": "PRD-014",
+    "quantity": 3,
+    "unit_price": 2.8,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0111",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001512",
+    "order_date": "2026-09-21 17:00:00",
+    "sku": "PRD-023",
+    "quantity": 2,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0077",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001513",
+    "order_date": "2026-10-05 14:00:00",
+    "sku": "PRD-022",
+    "quantity": 3,
+    "unit_price": 13.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0089",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001514",
+    "order_date": "2026-09-13 10:00:00",
+    "sku": "PRD-002",
+    "quantity": 3,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0227",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001515",
+    "order_date": "2026-08-18 14:00:00",
+    "sku": "PRD-004",
+    "quantity": 1,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0056",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001516",
+    "order_date": "2026-09-28 17:00:00",
+    "sku": "PRD-012",
+    "quantity": 4,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0168",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001517",
+    "order_date": "2026-10-20 18:00:00",
+    "sku": "PRD-022",
+    "quantity": 2,
+    "unit_price": 13.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0036",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001518",
+    "order_date": "2026-10-19 14:00:00",
+    "sku": "PRD-004",
+    "quantity": 1,
+    "unit_price": 4.4,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0035",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001519",
+    "order_date": "2026-10-21 17:00:00",
+    "sku": "PRD-022",
+    "quantity": 3,
+    "unit_price": 13.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0266",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001520",
+    "order_date": "2026-10-01 19:00:00",
+    "sku": "PRD-019",
+    "quantity": 1,
+    "unit_price": 6.7,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0217",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001521",
+    "order_date": "2026-09-17 11:00:00",
+    "sku": "PRD-002",
+    "quantity": 4,
+    "unit_price": 5.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0221",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001522",
+    "order_date": "2026-09-04 10:00:00",
+    "sku": "PRD-013",
+    "quantity": 1,
+    "unit_price": 8.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0019",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001523",
+    "order_date": "2026-09-23 17:00:00",
+    "sku": "PRD-024",
+    "quantity": 2,
+    "unit_price": 9.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0048",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001524",
+    "order_date": "2026-08-22 09:00:00",
+    "sku": "PRD-018",
+    "quantity": 1,
+    "unit_price": 5.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0077",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001525",
+    "order_date": "2026-07-31 18:00:00",
+    "sku": "PRD-018",
+    "quantity": 4,
+    "unit_price": 5.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0148",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001526",
+    "order_date": "2026-09-26 11:00:00",
+    "sku": "PRD-017",
+    "quantity": 2,
+    "unit_price": 5.2,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0164",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001527",
+    "order_date": "2026-08-25 12:00:00",
+    "sku": "PRD-015",
+    "quantity": 1,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0143",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001528",
+    "order_date": "2026-08-31 19:00:00",
+    "sku": "PRD-012",
+    "quantity": 4,
+    "unit_price": 9.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0166",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001529",
+    "order_date": "2026-10-18 11:00:00",
+    "sku": "PRD-022",
+    "quantity": 3,
+    "unit_price": 13.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0234",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001530",
+    "order_date": "2026-08-04 13:00:00",
+    "sku": "PRD-023",
+    "quantity": 1,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0126",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-001455",
+    "order_date": "2026-08-12 13:00:00",
+    "sku": "PRD-010",
+    "quantity": 1,
+    "unit_price": 14.5,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0114",
+    "source": "partner_api"
+  },
+  {
+    "order_id": "ORD-009994",
+    "order_date": "2026-09-23 10:00:00",
+    "sku": "PRD-023",
+    "quantity": 0,
+    "unit_price": 8.9,
+    "channel": "Marketplace",
+    "customer_id": "CLI-0092",
+    "source": "partner_api"
+  }
+]

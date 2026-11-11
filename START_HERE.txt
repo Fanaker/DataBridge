@@ -1,0 +1,12 @@
+DataBridge — Instalación rápida (Windows o Linux)
+================================================
+1. Abre una terminal en esta carpeta.
+2. Ejecuta: python -m venv .venv
+3. Activa: .venv\Scripts\Activate.ps1 (Windows) o source .venv/bin/activate (Linux/Mac)
+4. Ejecuta: pip install -r requirements.txt
+5. Ejecuta: python -m uvicorn app.main:app --reload --port 8008
+6. Visita: http://127.0.0.1:8008
+
+Para usar los datos precargados no tienes que ejecutar ninguna migración.
+La aplicación corre con SQLite por defecto. Docker y PostgreSQL son opcionales.
+Lee README.md para APIs, capturas, pruebas y arquitectura.
