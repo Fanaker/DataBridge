@@ -15,7 +15,7 @@ Una plataforma de integración de datos para centralizar pedidos de un comercio,
 
 Las ventas llegan desde diversas fuentes con formatos inconsistentes: pedidos duplicados, fechas erróneas, productos no reconocidos y valores inválidos. **DataBridge** proporciona un flujo sencillo de ingesta, transformación, validación, cuarentena y seguimiento de ejecuciones sin exigir servicios en la nube.
 
-> **Contexto:** proyecto personal de portafolio basado en **Northstar Retail, un negocio ficticio**. Todos los pedidos, precios, clientes y resultados de demostración son sintéticos. No está desplegado públicamente.
+> **Contexto:** laboratorio de ingeniería de datos basado en **Northstar Retail, un negocio ficticio**. Todos los pedidos, precios, clientes y resultados de demostración son sintéticos. No está desplegado públicamente.
 
 ## Funcionalidades
 
@@ -133,6 +133,6 @@ Más detalles en [Arquitectura](docs/ARCHITECTURE.md) y [Diccionario de datos](d
 
 Ambos proyectos usan el concepto de **Northstar Retail**. Aquí se demuestra la **integración y calidad de datos**, mientras que **SQL Clinic** (repositorio independiente) se enfoca en **índices y rendimiento SQL**. No intercambian bases de datos ni requieren instalarse juntos.
 
-## Licencia
+## Autor y licencia
 
-MIT. Creado como demostración técnica personal con datos de ejemplo.
+**Fanaker Labs** · Proyecto personal de integración de datos, ETL y calidad de información. Código bajo licencia [MIT](LICENSE).
